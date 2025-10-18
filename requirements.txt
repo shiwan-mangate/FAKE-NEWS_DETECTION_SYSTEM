@@ -1,11 +1,13 @@
 streamlit==1.45.0
-torch==2.5.1
+torch==2.7.0
 torchvision==0.22.0
 torchaudio
 transformers==4.44.2
 scikit-learn
 pandas
 numpy
+
+
 
 
 
