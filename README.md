@@ -145,6 +145,11 @@ Develop APIs for large-scale deployment
 This project is released under the MIT License.
 You are free to use, modify, and distribute it with appropriate attribution.
 
+## Live Demo
+Try the deployed web app here:  
+**Streamlit App:** https://rvegz7mo2nn5xpfzamhaec.streamlit.app/
+
+
 ## Author
 
 Developed by: [Shiwan Mangate]
